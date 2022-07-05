@@ -1,0 +1,83 @@
+.container-header {
+  width: 1277px;
+  height: 50px;
+  margin-top: 57px;
+}
+
+.header {
+  justify-content: space-between;
+  display: flex;
+  align-items: center;
+}
+
+.svg-logo {
+  &:hover {
+    cursor: pointer;
+  }
+}
+.nav-ul {
+  display: flex;
+  li {
+    margin: 0 60px 0 60px;
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 22px;
+
+    color: #ffffff;
+    list-style-type: none;
+
+    &:hover {
+      color: #d8d8d6;
+      cursor: pointer;
+    }
+  }
+}
+
+.connect-wallet {
+  width: 230px;
+  height: 50px;
+  left: 1129px;
+  top: 57px;
+
+  background: #ffffff;
+
+  align-items: center;
+  display: flex;
+  justify-content: center;
+
+  p {
+    font-family: "Montserrat";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 20px;
+
+    color: #000000;
+  }
+
+  svg {
+    margin-right: 15px;
+  }
+
+  &:hover {
+    background: #d8d8d6;
+    cursor: pointer;
+  }
+}
+
+@media (max-width: 1288px) {
+  .container-header {
+    width: 100%;
+  }
+}
+
+@media (max-width: 802px) {
+  .container-header {
+    .connect-wallet,
+    ul {
+      display: none;
+    }
+  }
+}
