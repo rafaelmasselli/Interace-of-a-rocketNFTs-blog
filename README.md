@@ -6,7 +6,28 @@
 
 ![Gif projeto](/.github/exemple.gif)
 
+## 🧪 Tecnologias
+
+### Esse projeto foi desenvolvido com
+
+Vite React Ts
+SCSS
+
+## 🤖 Requisitos
+
+- [Git](https://git-scm.com/)
+- [Node js](https://nodejs.org/en/)
+- [React](https://pt-br.reactjs.org)
+- [IDE](https://blog.geekhunter.com.br/ide-javascript/)
+
 ## 🚀 Iniciando o projeto
+
+```bash
+# Clonando o projeto
+$ git clone https://github.com/rafaelmasselli/FrontEnd-RocketNFTs-ReactTs
+# Entrando na pasta
+cd FrontEnd-RocketNFTs-ReactTs
+```
 
 ```bash
 # Instalar as dependências
