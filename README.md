@@ -1,8 +1,13 @@
-<h1 align="center"> 🤖 Projeto portfolio 🤖</h1>
+<h1 align="center"> Projeto Blog de NFTs</h1>
 
 ![capa do projeto](/.github/capa.png)
 
-💻 Projeto
+
+## Descrição do projeto
+
+#### Projeto consiste em simular uam plataforma de blog que se concentra em falar sobre NFTs (tokens não fungíveis) - ativos digitais únicos que são registrados em uma blockchain. Com uma interface fácil e responsiva, o site oferece aos usuários a oportunidade de aprender sobre NFTs, descobrir novos projetos e artistas que estão criando NFTs, e acompanhar as últimas notícias e tendências. Os usuários podem facilmente navegar pelo site, ler artigos, ver imagens e vídeos relacionados a NFTs, e interagir com outros usuários por meio de comentários e compartilhamento de conteúdo. A interface é projetada para ser intuitiva e fácil de usar, permitindo que os usuários encontrem rapidamente as informações que procuram sobre NFTs. Além disso, o site é responsivo, o que significa que pode ser acessado a partir de dispositivos móveis e desktops sem problemas de visualização ou navegação.
+
+## 💻 Pre-view do projeto
 
 ![Gif projeto](/.github/exemple.gif)
 
@@ -10,15 +15,13 @@
 
 ### Esse projeto foi desenvolvido com
 
-Vite React Ts
-SCSS
+- Vite React em TypeScript
+- SCSS
 
 ## 🤖 Requisitos
 
 - [Git](https://git-scm.com/)
 - [Node js](https://nodejs.org/en/)
-- [React](https://pt-br.reactjs.org)
-- [IDE](https://blog.geekhunter.com.br/ide-javascript/)
 
 ## 🚀 Iniciando o projeto
 
